@@ -1,0 +1,32 @@
+{
+    "name": "express-mybatis-mapper",
+    "version": "1.0.0",
+    "description": "mybatis-mapper express middleware",
+    "main": "express-mybatis-mapper.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/myyrakle/express-mybatis-mapper.git"
+    },
+    "author": {
+        "name": "myyrakle",
+        "email": "sssang97@naver.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/myyrakle/express-mybatis-mapper/issues"
+    },
+    "homepage": "https://github.com/myyrakle/express-mybatis-mapper#readme",
+    "readmeFilename": "README.md",
+    "keywords": [
+        "express",
+        "mybatis",
+        "mybatis-mapper",
+        "middleware"
+    ],
+    "dependencies": {
+        "mybatis-mapper-myyrakle": "^0.6.7"
+    }
+}
