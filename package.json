@@ -1,6 +1,6 @@
 {
     "name": "express-mybatis-mapper",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "mybatis-mapper express middleware",
     "main": "express-mybatis-mapper.js",
     "scripts": {
